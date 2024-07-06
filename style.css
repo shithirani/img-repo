@@ -13,7 +13,9 @@ text-align: center;
 }
 .first-container{
     display: flex;
-    justify-content: center;
+    justify-content: center ;
+ 
+    
 }
 .second{
     width: 200px;
